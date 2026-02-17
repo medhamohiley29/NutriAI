@@ -1,0 +1,5 @@
+{
+  "name": "NutriFlow AI",
+  "description": "A personalized nutrition and fitness companion that calculates your BMI and provides AI-generated diet plans and exercise suggestions tailored to your profile.",
+  "requestFramePermissions": []
+}
